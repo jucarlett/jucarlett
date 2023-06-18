@@ -22,16 +22,13 @@ app.listen(3000, () =>{
 
 <div style="display: inline_block"><br>
   
-  
-
-  
   <img src="https://github.com/jucarlett/jucarlett/blob/main/939737_html5%20icon_%20html_icon.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/308436_css_front-end_long%20shadow_web_web%20technology_icon.svg" width="50" height="40" align="center"/>
   
 </div><br>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucarlett&theme=dracula&hide_langs_below=1" />
 </a>
 
 ## **Vamos nos Conectar:**
