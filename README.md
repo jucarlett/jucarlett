@@ -1,6 +1,6 @@
-### Olá! Me chamo Julie! 👋
+### Hello! My name is Julie, but you can call me Ju ;) ! 👋
 
-Uma software developer apaixonada por tecnologia, buscando conhecimento e evoluir todo dia.
+A software developer passionate about technology and programming, seeking knowledge and evolving every day.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
