@@ -22,8 +22,8 @@ app.listen(3000, () =>{
 
 <div style="display: inline_block"><br>
   
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/939737_html5%20icon_%20html_icon.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/308436_css_front-end_long%20shadow_web_web%20technology_icon.svg" width="50" height="40" align="center"/>
+  <img src="[https://github.com/jucarlett/jucarlett/blob/main/svg-javascript.svg" width="50" height="40" align="center"/>
+  <img src="[https://github.com/jucarlett/jucarlett/blob/main/svg-php.svg]" width="50" height="40" align="center"/>
   
 </div><br>
 
