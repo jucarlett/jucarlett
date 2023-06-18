@@ -24,6 +24,10 @@ app.get("/", (req, res) => {
   
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-javascript.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-php.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mysql.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mongodb.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-github.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-git.svg" width="50" height="40" align="center"/>
   
 </div><br>
 
@@ -45,4 +49,4 @@ app.get("/", (req, res) => {
 </p>
 <br>
 
-![Snake animation](https://github.com/alexandresaints/alexandresaints/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jucarlett/jucarlett/blob/main/assets/github-contribution-grid-snake.svg)
