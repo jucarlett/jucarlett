@@ -2,7 +2,7 @@
 
 A software developer passionate about technology and programming, seeking knowledge and evolving every day.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="300" src="https://media.giphy.com/media/bZQvimlS7kuGc/giphy.gif?fit=1281%2C716&ssl=1" />
 
