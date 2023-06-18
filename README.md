@@ -24,12 +24,15 @@ app.get("/", (req, res) => {
   
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-javascript.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-php.svg" width="50" height="40" align="center"/>
+  /
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mysql.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mongodb.svg" width="50" height="40" align="center"/>
+  /
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-github.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-git.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-elementor.svg" width="50" height="40" align="center"/>
+  /
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-wordpress.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-elementor.svg" width="50" height="40" align="center"/>
   
 </div><br>
 
