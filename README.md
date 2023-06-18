@@ -22,7 +22,7 @@ app.listen(3000, () =>{
 
 <div style="display: inline_block"><br>
   
-  <img src="[https://github.com/jucarlett/jucarlett/blob/4cd53645745f7f43af7be1589d149399a8916aee/svg-javascript.svg]" width="50" height="40" align="center"/>
+  <img src="[https://github.com/jucarlett/jucarlett/blob/main/assets/svg-javascript.svg]" width="50" height="40" align="center"/>
   <img src="[https://github.com/jucarlett/jucarlett/blob/main/svg-php.svg]" width="50" height="40" align="center"/>
   
 </div><br>
