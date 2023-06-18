@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
   });
 ```
 
-## **Linguagens e Ferramentas:**
+## **Programming Languages and Tools:**
 
 <div style="display: inline_block"><br>
   
@@ -40,7 +40,7 @@ app.get("/", (req, res) => {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucarlett&theme=dracula&hide_langs_below=1" />
 </a>
 
-## **Vamos nos Conectar:**
+## **Let's connect:**
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/carlettju/" alt="Linkedin">
