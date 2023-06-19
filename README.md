@@ -37,7 +37,7 @@ app.get("/", (req, res) => {
 </div><br>
 
 <a href="https://github.com/jucarlett">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucarlett&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucarlett&theme=dracula&hide_langs_below=1"/>
 </a>
 
 ## **Let's connect:**
