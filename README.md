@@ -1,6 +1,6 @@
 ### Hello! My name is Julie, but you can call me Ju ;) ! 👋
 
-A software developer passionate about technology and programming, seeking knowledge and evolving every day.
+A Software Engineering student and software developer passionate about technology and programming, seeking knowledge and evolving every day.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
