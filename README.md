@@ -23,7 +23,7 @@ app.get("/", (req, res) => {
 <a href="https://linkedin.com/in/carlettju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlettju" height="30" width="40" /></a>
 <a href="https://fb.com/carlettju99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carlettju99" height="30" width="40" /></a>
 <a href="https://instagram.com/carlettju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlettju" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/jucarlett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/jucarlett" height="30" width="40" /></a>
+<a href="https://www.youtube.com/jucarlett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/jucarlett" height="30" width="40" /></a>
 </p>
 <br>
 <img src ="https://github.com/jucarlett/jucarlett/blob/main/assets/github-contribution-grid-snake.svg"/>
