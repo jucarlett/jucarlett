@@ -34,6 +34,7 @@ app.get("/", (req, res) => {
   
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-javascript.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-php.svg" width="50" height="40" align="center"/>
+    <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-dart.svg" width="50" height="40" align="center"/>
   /
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mysql.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mongodb.svg" width="50" height="40" align="center"/>
