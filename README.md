@@ -1,4 +1,4 @@
-<h1 align='center'> 👋 Hello, I'm carlett_ju </h1>
+<h1 align='center'> 👋 Hello, I'm Julie Carlett </h1>
 
 <p align='center'>
 I'm a passionate software developer from Brazil 🇧🇷, soon hoping to be in Europe 🇪🇺 or the United States 🇺🇸. I'm eager to learn new languages and technologies 🚀, and I'm actively looking for opportunities to work abroad 🌍. Welcome to my GitHub profile!
