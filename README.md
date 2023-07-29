@@ -1,7 +1,7 @@
 <h1 align='center'> 👋 Hello, I'm Julie Carlett </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=D83B7D&center=true&vCenter=true&multiline=true&width=1250&height=150&lines=I'm+a+passionate+software+developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7+with+Italian+roots+%F0%9F%87%AE%F0%9F%87%B9%2C+soon+hoping+to+be+in+Europe+%F0%9F%87%AA%F0%9F%87%BA+or+the+United+States+%F0%9F%87%BA%F0%9F%87%B8;I'm+eager+to+learn+new+languages+and+technologies+%F0%9F%9A%80%2C+and+I'm+actively+looking+for+opportunities+to+work+abroad+%F0%9F%8C%8D.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=D83B7D&center=true&vCenter=true&multiline=true&width=1250&height=100&lines=I'm+a+passionate+software+developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7+with+Italian+roots+%F0%9F%87%AE%F0%9F%87%B9%2C+soon+hoping+to+be+in+Europe+%F0%9F%87%AA%F0%9F%87%BA+or+the+United+States+%F0%9F%87%BA%F0%9F%87%B8;I'm+eager+to+learn+new+languages+and+technologies+%F0%9F%9A%80%2C+and+I'm+actively+looking+for+opportunities+to+work+abroad+%F0%9F%8C%8D.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
