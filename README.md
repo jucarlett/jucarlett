@@ -1,68 +1,45 @@
-### Hello! My name is Julie, but you can call me Ju ;) ! 👋
+<h1 align='center'> 👋 Hello, I'm carlett_ju </h1>
 
-A Software Engineering student and software developer passionate about technology and programming, seeking knowledge and evolving every day.
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
-
-<img align="right" width="300" src="https://media.giphy.com/media/bZQvimlS7kuGc/giphy.gif?fit=1281%2C716&ssl=1" />
-
-```javascript
-const express = require("express");
-const app = express();
-const webDeveloper = { name: "Julie Carlett", stack: "Full-Stack-Developer" };
-app.get("/", (req, res) => {
-  return res.send(webDeveloper);
-}),
-  app.listen(3000, () => {
-    console.log("Initing code...");
-  });
-```
-<h3 align="left">Let's connect:</h3>
-<p align="left">
-<a href="https://twitter.com/carlett_ju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlett_ju" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/carlettju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlettju" height="30" width="40" /></a>
-<a href="https://fb.com/carlettju99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carlettju99" height="30" width="40" /></a>
-<a href="https://instagram.com/carlettju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlettju" height="30" width="40" /></a>
-<a href="https://www.youtube.com/jucarlett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/jucarlett" height="30" width="40" /></a>
+<p align='center'>
+I'm a passionate software developer from Brazil 🇧🇷, soon hoping to be in Europe 🇪🇺 or the United States 🇺🇸. I'm eager to learn new languages and technologies 🚀, and I'm actively looking for opportunities to work abroad 🌍. Welcome to my GitHub profile!
 </p>
-<br>
-<img src ="https://github.com/jucarlett/jucarlett/blob/main/assets/github-contribution-grid-snake.svg"/>
 
-<h3 align="left">Programming Languages and Tools:</h3>
+<p align="center">
+<a href="https://twitter.com/carlett_ju"><img src="https://img.shields.io/twitter/follow/carlett_ju?style=social"></a>
+<a href="https://linkedin.com/in/carlettju"><img src="https://img.shields.io/badge/-carlettju-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlettju/"></a>
+<a href="https://instagram.com/carlettju"><img src="https://img.shields.io/badge/-@carlettju-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlettju/"></a>
+<a href="https://www.youtube.com/jucarlett"><img src="https://img.shields.io/youtube/views/jucarlett?style=social"></a>
+</p>
 
-<div style="display: inline_block"><br>
-  
+<h3 align="center">🛠️ Programming Languages and Tools 🛠️</h3>
+
+<p align="center">
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-javascript.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-php.svg" width="50" height="40" align="center"/>
-    <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-dart.svg" width="50" height="40" align="center"/>
-  /
+  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-dart.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mysql.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mongodb.svg" width="50" height="40" align="center"/>
-  /
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-github.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-git.svg" width="50" height="40" align="center"/>
-  /
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-wordpress.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-elementor.svg" width="50" height="40" align="center"/>
-    
-</div><br>
-<div>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jucarlett&show_icons=true&theme=dark&locale=en&layout=compact" alt="jucarlett" /></p>
+<h3 align="center">📈 GitHub Stats 📈</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jucarlett&show_icons=true&theme=dark&locale=en" alt="jucarlett" /></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jucarlett&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucarlett&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jucarlett&theme=dracula&border_radius=2&card_width=400)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jucarlett&theme=dracula&border_radius=2&card_width=400" alt="GitHub Streak" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jucarlett&theme=dracula)
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jucarlett&theme=dracula" alt="GitHub Trophies" />
+</p>
 
-
-
-
-
-
-
-
-
-
+<p align='center'>
+  <i>Let's connect and chat! Open to anything under the sun. ☀️🌈💻🚀</i>
+</p>
