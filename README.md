@@ -52,7 +52,7 @@ app.get("/", (req, res) => {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jucarlett&show_icons=true&theme=dark&locale=en" alt="jucarlett" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jucarlett&theme=dark" alt="jucarlett" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jucarlett&theme=dracula&border_radius=2&card_width=400)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jucarlett&theme=dracula)
 </div>
