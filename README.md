@@ -10,10 +10,12 @@ I'm a passionate software developer from Brazil 🇧🇷, soon hoping to be in E
 <a href="https://instagram.com/carlettju"><img src="https://img.shields.io/badge/-@carlettju-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlettju/"></a>
 <a href="https://www.youtube.com/jucarlett"><img src="https://img.shields.io/youtube/views/jucarlett?style=social"></a>
 </p>
+<p> <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/github-contribution-grid-snake.svg"  align="center"/></p>
 
 <h3 align="center">🛠️ Programming Languages and Tools 🛠️</h3>
 
 <p align="center">
+ 
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-javascript.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-php.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-dart.svg" width="50" height="40" align="center"/>
