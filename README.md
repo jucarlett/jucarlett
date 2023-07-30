@@ -8,7 +8,6 @@
 <a href="https://twitter.com/carlett_ju"><img src="https://img.shields.io/twitter/follow/carlett_ju?style=social"></a>
 <a href="https://linkedin.com/in/carlettju"><img src="https://img.shields.io/badge/-carlettju-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlettju/"></a>
 <a href="https://instagram.com/carlettju"><img src="https://img.shields.io/badge/-@carlettju-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlettju/"></a>
-<a href="https://www.youtube.com/jucarlett"><img src="https://img.shields.io/youtube/views/jucarlett?style=social"></a>
 </p>
 <p> <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/github-contribution-grid-snake.svg"  align="center"/></p>
 
