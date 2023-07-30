@@ -15,15 +15,17 @@
 
 <p align="center">
  
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-javascript.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-php.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-dart.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mysql.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mongodb.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-github.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-git.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-wordpress.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-elementor.svg" width="50" height="40" align="center"/>
+ <img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-javascript.svg" alt="JavaScript" width="50" height="40" align="center"/>
+<img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-php.svg" alt="PHP" width="50" height="40" align="center"/>
+<img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-dart.svg" alt="Dart" width="50" height="40" align="center"/>
+<img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-flutter.svg" alt="Flutter" width="50" height="40" align="center"/>
+<img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mysql.svg" alt="MySQL" width="50" height="40" align="center"/>
+<img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-mongodb.svg" alt="MongoDB" width="50" height="40" align="center"/>
+<img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-github.svg" alt="GitHub" width="50" height="40" align="center"/>
+<img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-git.svg" alt="Git" width="50" height="40" align="center"/>
+<img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-wordpress.svg" alt="WordPress" width="50" height="40" align="center"/>
+<img src="https://github.com/jucarlett/jucarlett/blob/main/assets/svg-elementor.svg" alt="Elementor" width="50" height="40" align="center"/>
+
 </p>
 
 <h3 align="center">📈 GitHub Stats 📈</h3>
